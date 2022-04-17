@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **enescanerdev@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: nessthegoat@hotmail.com</h3>
 <p align="left">
 </p>
 
