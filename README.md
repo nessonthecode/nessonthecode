@@ -7,10 +7,7 @@
 
 - 👨🏻‍💻 How long have you been coding and programming? **I have been working in coding and programming for 6 years.**
 
-- 📫 How to reach me **enescanerdev@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 📫 How to reach me **nessthegoat@hotmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
