@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ness.</h1>
 <h3 align="center">Front-end Developer, Cyber Security & Graphic Artist.</h3>
 
-- 🔭 When did you start the software? **I started in middle school**
+- 🔭 When did you start the software? **i started in middle school**
 
 - 🌱 I’m currently learning **Cyber Security (Junior)**
 
-- 👨🏻‍💻 How long have you been coding and programming? **I have been working in coding and programming for 6 years.**
+- 👨🏻‍💻 How long have you been coding and programming? **i have been working in coding and programming for 6 years.**
 
 - 📫 How to reach me **?**
 </p>
